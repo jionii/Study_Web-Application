@@ -1,4 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
+<%-- 지시자 : 컨테이너(엔진) 서블릿을 만들어라! --%>
 <html>
 <head>
     <title>Title</title>
